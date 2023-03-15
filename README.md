@@ -23,9 +23,7 @@ para implementação do [Tutorial: Introdução ao React](https://pt-br.reactjs.
       <td>00</td>
       <td>
         Aplicação React criada usando Create React App<br>
-        <code>
-          npx create-react-app tutorial-react
-        </code>
+        <code>npx create-react-app tutorial-react</code>
       </td>
       <td>
         <a target="_self" href="https://github.com/jobsontn/tutorialReact/commit/761fc7536e7eb9d1227cd0158d8983c58dfe283b">761fc75</a>
